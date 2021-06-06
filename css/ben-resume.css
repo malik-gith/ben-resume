@@ -458,9 +458,13 @@ body{
 .contact .contact-info ul li a i{
     font-size: 35px
 }
-
 .contact .contact-info p:last-of-type a{
-    text-decoration:none;
-    color:#fed500
+    
+    text-decoration: none;
+}
+
+.contact .contact-info p:last-of-type a span{
+    color:#fed500;
+}
         
 /*End Contact*/
